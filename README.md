@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/658e4907-fadc-436e-bb3d-43993ae917b6" />
+  <img src="https://imgur.com/HxG3hpX.gif" />
 </p>
 
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
