@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/304cb1b5-f472-4680-9cea-b3a4884496f1" />
+  <img src="https://github.com/user-attachments/assets/2438c95f-fc8d-458a-bed6-660a34796151" />
 </p>
 
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
@@ -38,5 +38,5 @@ i'm using gitHub to share what i build in college and also things i work on by m
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://i.pinimg.com/originals/13/c8/23/13c82340c2c8069e9ff865d8cc75dc15.gif]" width="500"/>
+  <img src="https://github.com/user-attachments/assets/391a2548-f408-46bf-860e-e0c1bbaf7514" width="500"/>
 </p>
