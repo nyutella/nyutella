@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/HxG3hpX.gif" />
+  <img src="https://imgur.com/Kcl224m.gif" />
 </p>
 
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
@@ -9,18 +9,20 @@
 </p>
 
 ---
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
 
 ##                       ✩₊˚.⋆☾⋆⁺₊✧ about me
 
 i'm a 20 year old software engineer student! currently learning python... i'm still new to programming, so i'm taking things step by step and trying to improve a little every day.
 i'm using gitHub to share what i build in college and also things i work on by myself!
 
-  </td>
-    <td>
-      <img src="https://imgur.com/kaToKA2.gif" width="250"/>
+   </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://imgur.com/kaToKA2.gif"  width="100%" style="max-width:250px;"/>
     </td>
   </tr>
 </table>
@@ -46,6 +48,3 @@ i'm using gitHub to share what i build in college and also things i work on by m
 ---
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/391a2548-f408-46bf-860e-e0c1bbaf7514" width="500"/>
-</p>
