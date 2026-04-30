@@ -6,11 +6,8 @@
 
 ---
 
-##                        ♡  ╱|、
-##                          (˚ˎ 。7  
-##                           |、˜〵          
-##                          じしˍ,)ノ about me
-##
+##                       ✩₊˚.⋆☾⋆⁺₊✧ about me
+
 i'm a 20 year old software engineer student! currently learning python... i'm still new to programming, so i'm taking things step by step and trying to improve a little every day.
 i'm using gitHub to share what i build in college and also things i work on by myself!
 
@@ -29,7 +26,6 @@ i'm using gitHub to share what i build in college and also things i work on by m
 
 ---
 
-## 🖼️ Banner / GIF (editável)
 
 <p align="center">
   <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://i.pinimg.com/originals/13/c8/23/13c82340c2c8069e9ff865d8cc75dc15.gif)" width="500"/>
