@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/jXOYF6k" />
+  <img src="https://imgur.com/a/jXOYF6k.gif" />
 </p>
 
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
@@ -20,7 +20,7 @@ i'm using gitHub to share what i build in college and also things i work on by m
 
   </td>
     <td>
-      <img src="https://imgur.com/kaToKA2" width="250"/>
+      <img src="https://imgur.com/kaToKA2.gif" width="250"/>
     </td>
   </tr>
 </table>
