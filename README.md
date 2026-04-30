@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2438c95f-fc8d-458a-bed6-660a34796151" />
+  <img src="https://imgur.com/a/jXOYF6k" />
 </p>
 
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
@@ -15,6 +15,12 @@
 i'm a 20 year old software engineer student! currently learning python... i'm still new to programming, so i'm taking things step by step and trying to improve a little every day.
 i'm using gitHub to share what i build in college and also things i work on by myself!
 
+  </td>
+    <td>
+      <img src="LINK_DO_GIF" width="250"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## contact me! ⋅˚₊‧ ଳ ‧₊˚ ⋅
