@@ -9,6 +9,9 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td>
 
 ##                       ✩₊˚.⋆☾⋆⁺₊✧ about me
 
@@ -17,7 +20,7 @@ i'm using gitHub to share what i build in college and also things i work on by m
 
   </td>
     <td>
-      <img src="LINK_DO_GIF" width="250"/>
+      <img src="https://imgur.com/kaToKA2" width="250"/>
     </td>
   </tr>
 </table>
