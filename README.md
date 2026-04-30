@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/304cb1b5-f472-4680-9cea-b3a4884496f1" />
+</p>
+
 <h1 align="center"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </h1>
 
 <p align="center">
