@@ -22,7 +22,7 @@ i'm using gitHub to share what i build in college and also things i work on by m
   </tr>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/kaToKA2.gif"  width="100%" style="max-width:250px;"/>
+      <img src="https://imgur.com/pbBhz8g.gif"  width="100%" style="max-width:250px;"/>
     </td>
   </tr>
 </table>
